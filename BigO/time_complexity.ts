@@ -60,3 +60,4 @@ const anotherFunChallenge = (input: number) => {
   //Rules of BigO
 
 //   Nested loops O(n^2) Qudratic  Time
+//  O(n!)  
